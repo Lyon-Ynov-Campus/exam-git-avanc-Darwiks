@@ -5,8 +5,10 @@ Ce projet est un site web développé en Go qui affiche une page vide pour le mo
 
 ## Fonctionnalités
 
-Le site affiche pour le moment une page vide. 43 fonctionnalité sera développée en parallèle, depuis la branche dev déjà existante.
+Le site affiche pour le moment une page vide. Deux fonctionnalité sera développée en parallèle, depuis la branche dev déjà existante.
 
+Exo 6
+La différence entre git reset et git revert et que git reset supprime le dernier commit et git revert crée un nouveau commit pour supprimer les modification du dernier commit
 ## Installation
 
 ```bash
