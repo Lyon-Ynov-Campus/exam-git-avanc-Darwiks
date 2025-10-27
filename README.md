@@ -14,6 +14,8 @@ Le site affiche pour le moment une page vide. Une fonctionnalité sera développ
 Le site affiche pour le moment une page vide. Deux fonctionnalité sera développée en parallèle, depuis la branche dev déjà existante.
 >>>>>>> main
 
+Exo 6
+La différence entre git reset et git revert et que git reset supprime le dernier commit et git revert crée un nouveau commit pour supprimer les modification du dernier commit
 ## Installation
 
 ```bash
